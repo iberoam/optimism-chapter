@@ -32,3 +32,7 @@ Example of online classes in our YouTube channel: https://www.youtube.com/watch?
 ### Interactive hands-on workshops
 
 6 interactive hands-on workshops to happen in the 3 public federal universities (UFRJ, UFF and UFRRJ), Blockchain Innovation Hub partners
+
+### Best 3 projects rewarded
+
+The best 3 protyped projectswith smart-contracts deployed at Optimism tesnet to be rewarded with a total of 2500 OP: 1000 OP, 2nd place: 850 OP, 3rd place: 650 OP. Bounties to be distributed once this project has been completed (after the month 12) and the locked OP released.
