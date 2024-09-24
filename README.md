@@ -26,3 +26,9 @@ The AVA system (https://ambientevirtual.nce.ufrj.br/), widely used by public fed
 ### Online classes
 
 6 online videos about how to deploy smart-contracts and accelerate prototyping in Optimism, to be publicly available in the IberoAm Youtube channel
+
+Example of online classes in our YouTube channel: https://www.youtube.com/watch?v=-CXvs47Uc9o&list=PL5dr-3NL6H0dzamjtZrQUUNUzCi62VQJN
+
+### Interactive hands-on workshops
+
+6 interactive hands-on workshops to happen in the 3 public federal universities (UFRJ, UFF and UFRRJ), Blockchain Innovation Hub partners
