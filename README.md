@@ -14,3 +14,15 @@ Onchain attestation for every progress of students/participants participating in
 Assess the progress and effectiveness of educational initiatives. Report interim results to governance participants. 3 educational videos (totalizing 5) produced and listed in IberoAm Youtube channel. 3 interactive hands-on workshops organized in the Universities (UFRJ, UFF and UFRRJ) All details and links to be published in the Blockchain Innovation Hub github.
 ### Comprehensive Review and Future Planning (1-Year Review)
 Conduct a comprehensive review of the mission’s impact. Analyze outcomes and prepare a detailed report of the initiative’s effectiveness. All details and links to be published in the Blockchain Innovation Hub github. 
+
+## Deliverables
+
+### University extension online course
+
+The AVA system (https://ambientevirtual.nce.ufrj.br/), widely used by public federal universisties, will be used to offer an extension online course to teach developers how to deploy smart-contract and accelerate prototyping in Optimism. An example of a previous course offered in the University using the AVA system is the course Optimism course (https://github.com/iberoam/optimism-course) entitled: "Optimism Blockchain Network: Governance and Retroactive Incentives"
+
+<img width="711" alt="Screenshot 2024-09-24 at 10 06 16" src="https://github.com/user-attachments/assets/c933f93a-ae34-42f1-9c2e-084ffb56ba89">
+
+### Online classes
+
+6 online videos about how to deploy smart-contracts and accelerate prototyping in Optimism, to be publicly available in the IberoAm Youtube channel
