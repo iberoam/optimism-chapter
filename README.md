@@ -19,7 +19,7 @@ Conduct a comprehensive review of the mission’s impact. Analyze outcomes and p
 
 ### University extension online course
 
-The AVA system (https://ambientevirtual.nce.ufrj.br/), widely used by public federal universisties, will be used to offer an extension online course to teach developers how to deploy smart-contract and accelerate prototyping in Optimism. An example of a previous course offered in the University using the AVA system is the course Optimism course (https://github.com/iberoam/optimism-course) entitled: "Optimism Blockchain Network: Governance and Retroactive Incentives"
+The AVA system (https://ambientevirtual.nce.ufrj.br/), widely used by public federal universisties, will be used to offer an extension online course to teach developers how to deploy smart-contracts and accelerate prototyping in Optimism. An example of a previous course offered in the University using the AVA system is the course Optimism course (https://github.com/iberoam/optimism-course) entitled: "Optimism Blockchain Network: Governance and Retroactive Incentives"
 
 <p align="center">
 <img width="711" alt="Screenshot 2024-09-24 at 10 06 16" src="https://github.com/user-attachments/assets/c933f93a-ae34-42f1-9c2e-084ffb56ba89">
