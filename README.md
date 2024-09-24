@@ -41,4 +41,4 @@ The best 3 prototyped projects swith smart-contracts deployed at Optimism tesnet
 
 ### On-chain attestation
 
-Each one of interactive hands-on workshops, educational videos and university extension course will have a simples evaluation process or task, then developers that complete the task will be able to claim onchain attestation or POAP stating their progresses. 
+Each one of interactive hands-on workshops, educational videos and university extension course will have a simple evaluation process or task, then developers that complete the task will be able to claim onchain attestation or POAP stating their progresses. 
