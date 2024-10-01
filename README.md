@@ -37,7 +37,7 @@ Example of online classes in our YouTube channel: https://www.youtube.com/watch?
 
 ### Best 3 projects rewarded
 
-The best 3 prototyped projects swith smart-contracts deployed at Optimism tesnet to be rewarded with a total of 2500 OP: 1st place 1000 OP, 2nd place: 850 OP, 3rd place: 650 OP. Bounties to be distributed once this project has been completed (after the month 12) and the locked OP released.
+The best 3 prototyped projects with smart-contracts deployed at Optimism tesnet to be rewarded with a total of 2.500 OP: 1st place 1.000 OP, 2nd place: 850 OP, 3rd place: 650 OP. Bounties to be distributed once this project has been completed (after the month 12) and the locked OP released.
 
 ### On-chain attestation
 
